@@ -8,7 +8,7 @@ Este projeto tem como objetivo facilitar a geração de contratos automáticos a
 APPANIMECONTRAT
 ├── src
 │   ├── assets
-│   │   └── main_img.png          # Imagem de fundo
+│   │   └── main_img.png        # Imagem de fundo
 │   ├── credentials
 │   │   └── service-account-file.json # Credenciais para a API do Google Sheets
 │   ├── templates
