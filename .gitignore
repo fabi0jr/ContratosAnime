@@ -1,0 +1,37 @@
+# Ignore arquivos de credenciais
+src/credentials/service-account-file.json
+
+#Ignore exe
+build/
+dist/
+
+# Ignore o ambiente virtual
+venv/
+ENV/
+env/
+
+# Ignore arquivos de configuração do editor
+.vscode/
+.idea/
+*.swp
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos do PyInstaller
+dist/
+build/
+*.spec
+
+# Ignore arquivos temporários
+*.tmp
+*.temp
